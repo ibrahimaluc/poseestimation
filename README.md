@@ -1,2 +1,2 @@
-# poseestimation
- a pose estimation program with openCV
+#  Pose Estimation
+ A pose estimation program with openCV
